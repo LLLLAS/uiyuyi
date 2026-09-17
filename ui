@@ -6196,3 +6196,5 @@ local Library do
         return SettingsPage
     end
 end
+
+return Library
